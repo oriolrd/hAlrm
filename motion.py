@@ -50,4 +50,5 @@ while True:
 			numero_collage = numero_collage + 1
 			if numero_collage >= 20:
 				numero_collage = 0
+				
 	previa = actual
