@@ -2,6 +2,7 @@ from SimpleCV import *
 import time
 import os
 
+execfile("startup.py")
 pwd = os.getcwd()
 
 numero_foto = 0
