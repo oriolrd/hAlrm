@@ -1,0 +1,5 @@
+This simple script captures images from an USB Camera, detects movement and send a message to a Whatsapp number.
+
+Requirements:
+- SimpleCV
+- Yowsup
